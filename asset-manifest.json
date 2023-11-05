@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/friends-shopping-list%20/static/css/main.3b64b7d9.css",
+    "main.js": "/friends-shopping-list%20/static/js/main.f79acfe3.js",
+    "index.html": "/friends-shopping-list%20/index.html",
+    "main.3b64b7d9.css.map": "/friends-shopping-list%20/static/css/main.3b64b7d9.css.map",
+    "main.f79acfe3.js.map": "/friends-shopping-list%20/static/js/main.f79acfe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b64b7d9.css",
+    "static/js/main.f79acfe3.js"
+  ]
+}
