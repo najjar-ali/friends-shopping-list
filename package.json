@@ -1,6 +1,6 @@
 {
   "homepage":"http://najjar-ali.github.io/friends-shopping-list ",
-  "name": "pizza-menu",
+  "name": "friends-shopping-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
